@@ -232,9 +232,6 @@ Raw data imported from Kaggle
 - Subqueries
 - Table creation and alteration
 
-## Author
-
-Data cleaning and analysis by aka
 
 ## License
 
